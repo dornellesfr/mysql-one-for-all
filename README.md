@@ -4,8 +4,6 @@
 
 # MySQL one-for-all
 
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
 Este projeto foi feito apenas para objetivo de estudo, e tem como objetivo resolver um problema de uma empresa que matinha seus dados em Excel, assim tendo de converter as tabelas para MySQL.
 
 
